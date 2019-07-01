@@ -1,4 +1,4 @@
 # assessment
 あなたのいいところ診断ゲーム
 
-URL
+リンク先は[こちら](https://yoshifumi-chan.github.io/assessment/assessment.html)
