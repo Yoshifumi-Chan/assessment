@@ -14,9 +14,11 @@ button {
     color: #FDFFFF;
     border-style: none;
     border-radius: 5px;
+    
+    transition: all 0.3s ease;
 }
 
-#assessment:hover {
+button:hover {
     color: #A4A4A4;
 }
 
